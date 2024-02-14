@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import hasInt32ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int32array-support@esm/index.mjs';
+import hasInt32ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int32array-support@v0.2.0-esm/index.mjs';
 ```
 
 #### hasInt32ArraySupport()
@@ -70,7 +70,7 @@ var bool = hasInt32ArraySupport();
 <body>
 <script type="module">
 
-import hasInt32ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int32array-support@esm/index.mjs';
+import hasInt32ArraySupport from 'https://cdn.jsdelivr.net/gh/stdlib-js/assert-has-int32array-support@v0.2.0-esm/index.mjs';
 
 var bool = hasInt32ArraySupport();
 if ( bool ) {
