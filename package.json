@@ -44,7 +44,8 @@
     "@stdlib/cli-ctor": "^0.2.2",
     "@stdlib/constants-int32-max": "^0.3.0",
     "@stdlib/constants-int32-min": "^0.2.2",
-    "@stdlib/fs-read-file": "^0.2.2"
+    "@stdlib/fs-read-file": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
   "devDependencies": {
     "@stdlib/array-int32": "^0.2.1",
